@@ -1,14 +1,19 @@
-**3. LOVE LOVE PANDA DESU**
+**3. LOVE LOVE Flower DESU**
 
-Crea una página web para amantes de los pandas. Puedes obtener las imágenes en este enlace.
 
->Versión 1: Crea tu página utilizando un grid system de tu elección (que no pertenezca a un framework como Bootstrap o Materialize).
 
->Versión 2: Crea tu propia versión móvil de la página.
+>Crea tu página utilizando un grid system de tu elección (que no pertenezca a un framework como Bootstrap o Materialize).
+
+>Crea tu propia versión móvil de la página.
 
 ##### Herramientas utilizadas:
-* Diseño Web Responsive
-* CSS3
-* HTML5
 
-![imagen Mi página](assets/images/desktop.png)
+* HTML5
+* CSS3
+* Diseño Web Responsive
+
+Ejemplo
+![Ejemplo](assets/images/love-love-panda.png)
+
+Resultado
+![Ejemplo](assets/images/Flower-desu.png)
